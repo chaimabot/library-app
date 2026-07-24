@@ -17,7 +17,6 @@ Application web full-stack de gestion de bibliothèque permettant la gestion des
 - API RESTful
 
 ## Fonctionnalités
-
 - Gestion des livres (ajout, modification, suppression, recherche et détails)
 - Gestion des membres
 - Gestion des emprunts et retours
@@ -25,4 +24,17 @@ Application web full-stack de gestion de bibliothèque permettant la gestion des
 - API REST pour la communication frontend/backend
 - Base de données SQLite avec initialisation automatique
 
-## Structure du projet
+## Installation
+
+### Frontend
+```bash
+npm install
+npm run dev
+```
+
+### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
